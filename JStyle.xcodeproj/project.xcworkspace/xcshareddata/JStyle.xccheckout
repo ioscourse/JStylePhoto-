@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1D64C19D-1622-481F-B2FC-8F5A98EB64F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JStyle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</key>
+		<string>https://github.com/ioscourse/JStyle-Photo-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JStyle.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ioscourse/JStyle-Photo-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JStyle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
