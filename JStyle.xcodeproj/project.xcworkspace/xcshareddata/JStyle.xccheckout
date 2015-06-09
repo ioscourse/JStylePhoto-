@@ -10,6 +10,8 @@
 	<string>JStyle</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>3E71669E9C4EA69947B17DD1A2161704D9FE450A</key>
+		<string>https://github.com/ioscourse/JStylePhoto-.git</string>
 		<key>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</key>
 		<string>https://github.com/ioscourse/JStyle-Photo-App.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>JStyle.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</key>
+		<key>3E71669E9C4EA69947B17DD1A2161704D9FE450A</key>
 		<string>../..</string>
+		<key>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</key>
+		<string>../../../JStyle</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ioscourse/JStyle-Photo-App.git</string>
+	<string>https://github.com/ioscourse/JStylePhoto-.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</string>
+	<string>3E71669E9C4EA69947B17DD1A2161704D9FE450A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>C8DFF0509F36E288C855F0E90ECA0D1B7D37D75F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>JStyle</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E71669E9C4EA69947B17DD1A2161704D9FE450A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JStylePhoto</string>
 		</dict>
 	</array>
 </dict>
